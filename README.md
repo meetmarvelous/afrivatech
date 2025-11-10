@@ -13,12 +13,6 @@ The site is fully responsive and optimized for both desktop and mobile viewing.
 
 ---
 
-## 🏗️ Project Structure
-
-Afrivatech-Website/ │ ├── index.html          # Homepage (Hero, Focus Areas, Team, and Mission) ├── about.html          # About Us page (Purpose, Philosophy, Vision, Story) ├── team.html           # Meet Our Team page ├── contact.html        # Contact and inquiry page │ ├── css/ │   ├── bootstrap.css │   ├── style.css │   └── responsive.css │ ├── js/ │   ├── bootstrap.js │   ├── jquery-3.4.1.min.js │   └── custom.js │ ├── images/ │   ├── about.jpg │   ├── contact.jpg │   ├── team.jpg │   ├── values-1.png │   ├── values-2.png │   ├── values-3.png │   └── favicon.png │ └── README.md           # Project documentation
-
----
-
 ## 🖥️ Features
 
 - **Responsive Design:** Built with Bootstrap 4 for seamless viewing on all devices.  
