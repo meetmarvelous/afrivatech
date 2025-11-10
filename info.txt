@@ -1,0 +1,112 @@
+
+Full name : Ojo Moses S.
+Position: Chief operating officer(COO)
+Skills: Proficient writer. Administrative prowess
+What you do(for the organisation): *Brief introduction*
+
+ A senior executive tasked with overseeing the day-to-day administrative and operational functions of C-Tech with proper correspondence to the chief executive officer (CEO).
+
+______________________________________________
+
+Full name : Ayenimowa Boluwatife Victoria
+Position : Chief Financial officer
+Skills : Basic Microsoft Application skills (Word, Excel and PowerPoint)
+Social Media Management
+Functions: Managing  financial aspect of C-Tech and ensuring that all financial transactions are conducted legally and ethically.
+
+______________________________________________
+
+Full name : Abiola Victoria Salawu
+Position : Regulatory Coordinator
+Skills : Writing, Hosting skills
+What do you do( for the organization): Draft and edit protocol documents and submit new protocols, Protocol amendments and continuing reviews and safety reports to the appropriate  Chief Research officer for reviews.
+
+______________________________________________
+
+Full name : Ifeoluwa Praise Bolaji
+Position : Social Manager
+Skills : Graphics designer, content writing.
+
+What you do(for the organisation):
+• Create engaging multimedia content for and about the organization. 
+
+• Promotion of organization and brand through social media platforms and others.
+
+• Form key relationships with that could be helpful to the organization.
+
+• Coordinate strategies and campaigns when needed.
+
+______________________________________________
+
+Full name : Adegbiji Marvelous Ayomide
+
+Position : Director of Webs
+
+Skills : Website Design, Technical writing, Database Management, Graphics Design.
+
+What you do(for the organisation):
+• Evaluating new technologies that could help improve operations within the organization
+•  Managing a team of developers and other technical staff to develop new websites or update existing ones
+•  Creating a strategic plan for implementing new technology solutions within an organization
+•  Analyzing data, creating reports, and developing solutions to problems using computer software.
+• 
+______________________________________________
+
+Full name : OLAKUNLE, Doyinsola Eunice
+
+Position : Chief Legal Officer.
+
+Skills : Research, Writing.
+
+What you do(for the organisation):
+
+• Providing Legal Advice and developing strategies to mitigate potential legal problems
+
+• Drafting and reviewing legal documents
+
+• Establishing and enforcing ethical standards and compliance programs within the organization
+all legal matters within the organization
+
+______________________________________________
+
+Full Name : Aboderin Adewale Ezekiel
+Position : Chief Executive Director
+Skills : Machine learning(AWS) and Google IT fellow.
+What you do(for the organisation)
+1.Develop and implement the overall business strategy, including creating a clear vision for the company's future and guiding members towards achieving common goals.
+
+2.Build and lead a strong and effective team, delegating tasks and responsibilities effectively and fostering a positive work culture.
+
+3.Raise capital and manage finances, including securing funding, making informed financial decisions, and ensuring the company's financial stability and sustainability.
+
+______________________________________________
+
+Name: Jesuyemi Goodness Phebeanna             
+Position: Human Resource Manager
+SKills: content writing, research
+
+What do you do (for the organization):
+
+1. Recruitment, selection, and interview of staff
+2. Administration of work payment, benefits, and leave.
+3. Enforcement of work policies and practices
+4. Work performance Management
+5. Management of  human resource information systems
+6. Human resource data and analytics
+7.
+______________________________________________
+
+Full name: Ikwuje Peace Ochanya 
+Position in the organisation: 
+Skills: Technical writing, Python, backend development using Django
+
+What you do(for the organisation): I act as critical members of the data science team. My tasks involve researching, building, and designing the artificial intelligence responsible for machine learning and maintaining and improving existing artificial intelligence systems. 
+
+I will also be leading the data science school of C-Tech and report directly to The Director of Webs
+
+______________________________________________
+
+Full name: Jonas Paul Ibekwe
+Position: Chief Research Officer 
+Skills: Data analysis and writing
+Function: Tasked with overseeing and conducting all activities pertaining to research and development.
