@@ -1,0 +1,125 @@
+Edit this 
+        <!-- === Start of team cards === -->
+
+        <div class="col-sm-6 col-lg-4">
+          <div class="box">
+            <div class="img-box"><img src="images/team/wale.jpg" alt=""></div>
+            <div class="detail-box">
+              <h4>Aboderin Adewale Ezekiel</h4>
+              <p><b>Position :</b> Chief Executive Director</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-lg-4">
+          <div class="box">
+            <div class="img-box"><img src="images/team/moses.jpg" alt=""></div>
+            <div class="detail-box">
+              <h4>Ojo Moses S.</h4>
+              <p><b>Position :</b> Chief Operating Officer (COO)</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-lg-4">
+          <div class="box">
+            <div class="img-box"><img src="images/team/goodness.jpg" alt=""></div>
+            <div class="detail-box">
+              <h4>Jesuyemi Goodness Phebeanna</h4>
+              <p><b>Position :</b> Human Resource Manager</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-lg-4">
+          <div class="box">
+            <div class="img-box"><img src="images/team/bolu.jpg" alt=""></div>
+            <div class="detail-box">
+              <h4>Ayenimowa Boluwatife Victoria</h4>
+              <p><b>Position :</b> Chief Financial Officer</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-lg-4">
+          <div class="box">
+            <div class="img-box"><img src="images/team/victoria.jpg" alt=""></div>
+            <div class="detail-box">
+              <h4>Abiola Victoria Salawu</h4>
+              <p><b>Position :</b> Regulatory Coordinator</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-lg-4">
+          <div class="box">
+            <div class="img-box"><img src="images/team/praise.jpg" alt=""></div>
+            <div class="detail-box">
+              <h4>Ifeoluwa Praise Bolaji</h4>
+              <p><b>Position :</b> Social Manager</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- === Start of team cards === -->
+
+remember to follow this format
+<h4>(Name)</h4>
+<p><b>Position :</b> (Position)</p>
+
+
+for the following
+
+
+Aboderin Adewale 
+Founder, AfriVatech 
+
+Ojo Moses
+Operations Manager 
+
+
+Nteh Chisom Victor 
+Full Stack Engineer
+
+
+Nteh Chisom Victor 
+Full Stack Engineer
+
+
+Oyelayo Seye Daniel
+Co-founder & ML Engineer
+
+
+
+Oyerinde Huldah Oluwaseyi
+Marketing and Communications Associate
+
+
+Ifeoluwa Praise Bolaji 
+Product and Research Associate 
+
+
+Salawu Abiola
+HR & People Operations Lead
+
+
+Oladejo Olamide Ezekiel — Brand & Visual Design Lead
+
+
+*Name*: Jonas Paul Ibekwe 
+*Role*: Data Analyst & Research Scientist
+
+
+*Name*: Olukoya Babatunde Daniel 
+*Position*: Frontend engineer
+
+
+Name: Blossom Chisom Edozie
+Position: Project Manager
+
+Name: Marvelous Ayomide Adegbiji 
+Position: Backend Engineer
+
+
+DideOluwa Alaiyemola 
+Legal and Compliance Officer 
